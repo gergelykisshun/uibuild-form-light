@@ -42,10 +42,6 @@ body {
     font-family: 'EB Garamond', serif;
 }
 
-.container {
-    gap: 20px;
-    width: 480px;
-}
 
 .container h1 {
     text-align: center;
